@@ -1,0 +1,14 @@
+{
+  "name": "vscode-extensions",
+  "version": "1.0.0",
+  "description": "auto install vscode extensions",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./index.js"
+  },
+  "author": "Coffee_Worm",
+  "license": "MIT",
+  "dependencies": {
+    "chalk": "^2.4.2"
+  }
+}
